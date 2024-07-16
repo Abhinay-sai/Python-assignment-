@@ -1,3 +1,17 @@
+3)Problem 3: Real-Time Traffic Monitoring System
+Scenario:
+You are working on a project to develop a real-time traffic monitoring system for a smart city initiative. The system should provide real-time traffic updates and suggest alternative routes.
+Tasks:
+1. Model the data flow for fetching real-time traffic information from an external API and displaying it to the user.
+2. Implement a Python application that integrates with a traffic monitoring API (e.g., Google Maps Traffic API) to fetch real-time traffic data.
+3. Display current traffic conditions, estimated travel time, and any incidents or delays.
+4. Allow users to input a starting point and destination to receive traffic updates and alternative routes.
+Deliverables:
+Data flow diagram illustrating the interaction between the application and the API.
+Pseudocode and implementation of the traffic monitoring system.
+Documentation of the API integration and the methods used to fetch and display traffic data.
+Explanation of any assumptions made and potential improvements.
+
 DATA FLOW DIAGRAM:-
 
 User Input (Starting Point, Destination) -> Python Application -> Traffic API (e.g., Google Maps Traffic API)
