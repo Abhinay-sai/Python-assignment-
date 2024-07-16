@@ -1,3 +1,17 @@
+1)Problem 1: Real-Time Weather Monitoring System
+Scenario:
+You are developing a real-time weather monitoring system for a weather forecasting company. The system needs to fetch and display weather data for a specified location.
+Tasks:
+1. Model the data flow for fetching weather information from an external API and displaying it to the user.
+2. Implement a Python application that integrates with a weather API (e.g., OpenWeatherMap) to fetch real-time weather data.
+3. Display the current weather information, including temperature, weather conditions, humidity, and wind speed.
+4. Allow users to input the location (city name or coordinates) and display the corresponding weather data.
+Deliverables:
+• Data flow diagram illustrating the interaction between the application and the API.
+Pseudocode and implementation of the weather monitoring system.
+Documentation of the API integration and the methods used to fetch and display weather data.
+Explanation of any assumptions made and potential improvements.
+
 DATA FLOW DIAGRAM:-
 
 User Input (Location) -> Python Application -> Weather API (e.g., OpenWeatherMap)
