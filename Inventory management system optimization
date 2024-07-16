@@ -1,3 +1,21 @@
+2) PROBLEM 2-INVENTORY MANAGEMENT SYSTEM OPTIMIZATION
+SCENARIO-
+You have been hired by a retail company to optimize their inventory management system. The company wants to minimize stockouts and overstock situations while maximizing inventory turnover and profitability.
+Tasks:
+1. Model the inventory system: Define the structure of the inventory system, including products, warehouses, and current stock levels.
+2. Implement an inventory tracking application: Develop a Python application that tracks inventory levels in real-time and alerts when stock levels fall below a certain threshold.
+3. Optimize inventory ordering: Implement algorithms to calculate optimal reorder points and quantities based on historical sales data, lead times, and demand forecasts.
+4. Generate reports: Provide reports on inventory turnover rates, stockout occurrences, and cost implications of overstock situations.
+5. User interaction: Allow users to input product IDs or names to view current stock levels, reorder recommendations, and historical data.
+Deliverables:
+Data Flow Diagram: Illustrate how data flows within the inventory management system, from input (e.g., sales data, inventory adjustments) to output (e.g., reorder alerts, reports).
+Pseudocode and Implementation: Provide pseudocode and actual code demonstrating
+how inventory levels are tracked, reorder points are calculated, and reports are
+generated.
+Documentation: Explain the algorithms used for reorder optimization, how historical data influences decisions, and any assumptions made (e.g., constant lead times).
+• User Interface: Develop a user-friendly interface for accessing inventory information, viewing reports, and receiving alerts.
+Assumptions and Improvements: Discuss assumptions about demand patterns, supplier reliability, and potential improvements for the inventory management system's
+
 DATA FLOW DIAGRAM:-
 
 User Input (Product ID/Name, Sales Data, Inventory Adjustments) -> Inventory Tracking Application -> Reorder Calculation Algorithm
